@@ -1,16 +1,25 @@
-# FinGraphDB
+# GeoPulse 🌍
 
-A Python and Neo4j-based financial fraud detection project that uses graph database technology to analyze transactions and identify suspicious account activities.
+**Hyper-Local Retail Mobility Analytics**
 
-## Technologies
+GeoPulse is a location intelligence project that uses simulated mobile GPS data to analyze footfall patterns, traffic movement, retail potential, and store cannibalization.
+
+### Features
+- GPS data simulation
+- Footfall analysis
+- Spatial and mobility analysis
+- High-potential retail area identification
+- Store cannibalization detection
+- Interactive analytics dashboard
+
+### Technologies
 - Python
-- Neo4j
-- Cypher
-- Pandas
+- Pandas & NumPy
+- GeoPandas
+- Shapely
+- Streamlit
+- Plotly
+- Folium
 
-## Features
-- Transaction generation
-- Graph database integration
-- Fraud detection
-- Account relationship analysis
-- Graph visualization
+### Objective
+To help businesses make smarter retail location decisions using geospatial analytics and mobility insights.
