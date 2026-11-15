@@ -1,25 +1,29 @@
-# GeoPulse 🌍
+GeoPulse – Hyper-Local Retail Mobility Analytics
 
-**Hyper-Local Retail Mobility Analytics**
+GeoPulse is a geospatial analytics project that uses GPS mobility data to understand customer movement, identify high-footfall areas, and support smarter retail store location decisions.
 
-GeoPulse is a location intelligence project that uses simulated mobile GPS data to analyze footfall patterns, traffic movement, retail potential, and store cannibalization.
+Features
 
-### Features
-- GPS data simulation
-- Footfall analysis
-- Spatial and mobility analysis
-- High-potential retail area identification
-- Store cannibalization detection
-- Interactive analytics dashboard
+- GPS data generation and processing
+- Data cleaning and preprocessing
+- Spatial analysis using Python
+- Customer mobility analysis
+- Footfall and location-based insights
+- Retail store location optimization
 
-### Technologies
+Tech Stack
+
 - Python
-- Pandas & NumPy
+- Pandas
 - GeoPandas
-- Shapely
-- Streamlit
-- Plotly
-- Folium
+- Snowflake
+- Kepler.gl
+- Apache Sedona
 
-### Objective
-To help businesses make smarter retail location decisions using geospatial analytics and mobility insights.
+Project Goal
+
+To help retail businesses identify high-potential store locations, understand customer movement, and reduce the risk of cannibalizing existing stores.
+
+Status
+
+🚧 Currently under development.
